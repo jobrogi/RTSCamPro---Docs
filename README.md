@@ -25,11 +25,29 @@
 | Game Ready                       | Drop-in functionality with minimal setup required                           |
 
 ---
+### 🧰 Included Files
 
-🧰 Included Files
-<pre> ``` RTSCamPro/ ├── Content/ │ └── RTSCamPro/ │ ├── Blueprints/ │ ├── Input/ │ ├── SaveSystem/ │ ├── UI/ │ └── Demo/ ├── Config/ ├── Plugins/ │ └── RTSCamPro/ │ ├── Source/ │ │ └── RTSCamPro/ │ │ ├── Public/ │ │ ├── Private/ │ │ └── RTSCamPro.build.cs │ ├── Resources/ │ └── RTSCamPro.uplugin ``` </pre>
+```plaintext
+RTSCamPro/
+├── Content/
+│   └── RTSCamPro/
+│       ├── Blueprints/
+│       ├── Input/
+│       ├── SaveSystem/
+│       ├── UI/
+│       └── Demo/
+├── Config/
+├── Plugins/
+│   └── RTSCamPro/
+│       ├── Source/
+│       │   └── RTSCamPro/
+│       │       ├── Public/
+│       │       ├── Private/
+│       │       └── RTSCamPro.build.cs
+│       ├── Resources/
+│       └── RTSCamPro.uplugin
+```
 
----
 
 ## 🎮 Setup Instructions
 
