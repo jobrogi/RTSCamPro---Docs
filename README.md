@@ -1,6 +1,3 @@
-from textwrap import dedent
-
-markdown_text = dedent("""
 # RTSCamPro - Premium RTS Camera System
 
 **RTSCamPro** is a modular, high-performance RTS-style camera system designed for Unreal Engine 5. It combines a C++ backend for performance and Blueprint subclasses for easy override and customization. Ideal for RTS, simulation, city builders, and tactical games.
