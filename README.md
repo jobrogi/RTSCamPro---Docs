@@ -29,22 +29,23 @@
 ## 🧰 Included Files
 RTSCamPro/
 ├── Content/
-│ └── RTSCamPro/
-│ ├── Blueprints/
-│ ├── Input/
-│ ├── SaveSystem/
-│ ├── UI/
-│ └── Demo/
+│   └── RTSCamPro/
+│       ├── Blueprints/
+│       ├── Input/
+│       ├── SaveSystem/
+│       ├── UI/
+│       └── Demo/
 ├── Config/
 ├── Plugins/
-│ └── RTSCamPro/
-│ ├── Source/
-│ │ └── RTSCamPro/
-│ │ ├── Public/
-│ │ ├── Private/
-│ │ └── RTSCamPro.build.cs
-│ ├── Resources/
-│ └── RTSCamPro.uplugin
+│   └── RTSCamPro/
+│       ├── Source/
+│       │   └── RTSCamPro/
+│       │       ├── Public/
+│       │       ├── Private/
+│       │       └── RTSCamPro.build.cs
+│       ├── Resources/
+│       └── RTSCamPro.uplugin
+
 
 ---
 
