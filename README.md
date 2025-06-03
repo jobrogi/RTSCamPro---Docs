@@ -123,16 +123,9 @@ This product is sold under the Epic Games Fab EULA and includes no third-party c
 
 For setup help, bug reports, or feature requests, please contact:
 
-- **Email**: `support@ghilliestudios.com`
-- **Community Discord**: [Coming Soon]
-- **Documentation Site**: [Coming Soon]
+- **Email**: `Jobrogi@gmail.com`
+- **Community Discord**: [[Ghillie Studios Discord]](https://discord.gg/6xmYHNKk)
 
 ---
 
-""")
-
-with open("/mnt/data/RTSCamPro_Documentation.md", "w") as f:
-    f.write(markdown_text)
-
-"/mnt/data/RTSCamPro_Documentation.md"
 
